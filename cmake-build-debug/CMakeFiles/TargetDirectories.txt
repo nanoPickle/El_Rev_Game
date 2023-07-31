@@ -1,0 +1,3 @@
+/home/alonso/Documents/UNSA_2023_A/CCII/Tareas/nuevoTIF/Revolution-Game/cmake-build-debug/CMakeFiles/Revolution_Game.dir
+/home/alonso/Documents/UNSA_2023_A/CCII/Tareas/nuevoTIF/Revolution-Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alonso/Documents/UNSA_2023_A/CCII/Tareas/nuevoTIF/Revolution-Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

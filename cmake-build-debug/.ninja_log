@@ -1,0 +1,19 @@
+# ninja log v5
+1	811	1690845821410939595	CMakeFiles/Revolution_Game.dir/Model/Entidad.cpp.o	e32dc71baf04eff2
+0	1236	1690845821834272926	CMakeFiles/Revolution_Game.dir/Model/Model.cpp.o	14cdd87cd61227e4
+1240	1301	1690845821900939592	CMakeFiles/Revolution_Game.dir/Model/Esfera.cpp.o	5a87f6be90ec0e3b
+0	1608	1690845822207606255	CMakeFiles/Revolution_Game.dir/main.cpp.o	2aa553d8ee8d08da
+815	2155	1690845822754272918	CMakeFiles/Revolution_Game.dir/Model/Jugador.cpp.o	933464591aea653e
+1609	2223	1690845822820939584	CMakeFiles/Revolution_Game.dir/Model/Personaje.cpp.o	64fadbf84cd9a03b
+1301	2346	1690845822944272916	CMakeFiles/Revolution_Game.dir/Model/Juego.cpp.o	f007605cc3ab0128
+2156	2807	1690845823404272912	CMakeFiles/Revolution_Game.dir/Model/Item.cpp.o	702caf98ab87a605
+2223	2863	1690845823460939579	CMakeFiles/Revolution_Game.dir/Model/Firegun.cpp.o	d40153350c4d4430
+2346	2987	1690845823584272912	CMakeFiles/Revolution_Game.dir/Model/Proyectil.cpp.o	117ce29c537552e1
+2863	3607	1690845824207606239	CMakeFiles/Revolution_Game.dir/View/Imagen.cpp.o	1140429fd1b73152
+2807	4240	1690845824837606234	CMakeFiles/Revolution_Game.dir/View/View.cpp.o	21deea331c003867
+2987	4324	1690845824924272901	CMakeFiles/Revolution_Game.dir/View/Animation.cpp.o	2febdf5fbb43251b
+4324	4381	1690845824980939566	CMakeFiles/Revolution_Game.dir/Controller/Invoker.cpp.o	615473a6c795e838
+4381	4402	1690845825000939567	CMakeFiles/Revolution_Game.dir/Controller/Command.cpp.o	3d4f889cc9a6dad7
+3607	5049	1690845825647606228	CMakeFiles/Revolution_Game.dir/View/JugadorView.cpp.o	1b1a1dc810b26e79
+4240	5511	1690845826110939557	CMakeFiles/Revolution_Game.dir/Controller/Controller.cpp.o	6bb2d5a69ae59cc9
+5511	5657	1690845826254272890	Revolution_Game	fc4731945caf4610
